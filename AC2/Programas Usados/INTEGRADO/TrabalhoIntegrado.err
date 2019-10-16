@@ -1,0 +1,14 @@
+Warning[205] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 2 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 3 : Found directive in column 1. (RADIX)
+Message[302] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 49 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 61 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 144 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 154 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 167 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 174 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 179 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 185 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 186 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 190 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\DESKTOP\INTEGRADO\TRABALHOINTEGRADO.ASM 194 : Using default destination of 1 (file).

@@ -1,0 +1,76 @@
+MPLINK 4.35, Linker
+Linker Map File - Created Mon Jun 12 00:01:46 2017
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000118
+.config_2007_TRABALHOINTEGRADO.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00008b      
+                            0x002007    0x002007      
+            141 out of 2183 program addresses used, program memory utilization is 6%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   ANDAR1   0x00001b    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   ANDAR2   0x000029    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   ANDAR3   0x000039    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                  ATRASO1   0x000042    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO11   0x000044    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                ATRASO11B   0x000055    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO1B   0x000053    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                  ATRASO2   0x00004b    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO22   0x00004d    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO2B   0x00005c    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                  ATRASO3   0x000062    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                      IF1   0x000069    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                      IF2   0x00006c    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                      IF3   0x00006f    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   INICIO   0x000001    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                     MAIN   0x00000d    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+             PRESS_BUTTON   0x000065    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   TERREO   0x000012    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+               noPrimeiro   0x00007a    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                noSegundo   0x000080    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+               noTerceiro   0x000086    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 noTerreo   0x000070    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000001    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                     MAIN   0x00000d    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   TERREO   0x000012    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   ANDAR1   0x00001b    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   ANDAR2   0x000029    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                   ANDAR3   0x000039    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                  ATRASO1   0x000042    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO11   0x000044    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                  ATRASO2   0x00004b    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO22   0x00004d    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO1B   0x000053    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                ATRASO11B   0x000055    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 ATRASO2B   0x00005c    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                  ATRASO3   0x000062    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+             PRESS_BUTTON   0x000065    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                      IF1   0x000069    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                      IF2   0x00006c    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                      IF3   0x00006f    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                 noTerreo   0x000070    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+               noPrimeiro   0x00007a    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+                noSegundo   0x000080    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+               noTerceiro   0x000086    program     static C:\Users\Gabriel\Desktop\INTEGRADO\TrabalhoIntegrado.asm
+
+
