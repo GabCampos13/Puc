@@ -1,0 +1,5 @@
+Para informações de instalação do python 3.7, acessar o site e ir em Downloads: 
+https://www.python.org/
+
+Para execução do código execute a linha de comando:
+python Codigos.py
