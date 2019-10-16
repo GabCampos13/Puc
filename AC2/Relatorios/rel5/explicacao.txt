@@ -1,0 +1,15 @@
+mandar pro arduino apenas o estado
+
+estado 1 = LEDs acesos 2, 6, 7
+
+
+criar um estado pro AMARELO no sinal de pedestre
+
+123d circuits <-- la em cima digitar = aocpuc
+
+2 - azul pedestre
+3 - vermelho pedestre
+
+4,5,6 - começando do verde,sinal de baixo
+
+7,8,9 - começando do verde
