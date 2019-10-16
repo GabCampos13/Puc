@@ -1,0 +1,8 @@
+1- HTTP e TCP foram os protocolos encontrados
+
+2- 141,202 milisegundos
+
+3- IP Rede -> 192.168.1.155
+   IP Gaia -> 128.119.245.12
+
+4- FOTO

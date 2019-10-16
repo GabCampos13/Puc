@@ -1,0 +1,50 @@
+1- Pois se tivesse apenas um servidor DNS existiriam problemas de disponibilidade (falhas), Distancia (distancia do servidor muito longe) e volume de tráfego (tratar pedidos do mundo inteiro)
+
+2-No primeiro nível seria verificado o princeton.edu, e ele seria enviado para o servidor cit.princeton.edu no endereço 128.196.128.233
+  No segundo nível o servidor cit.princeton.edu falaria que o cs.princeton.edu está no servidor gnat.cs.princeton.edu no endereço 192.12.69.5
+  No terceiro nível o servidor gnat.cs.princeton.edu falaria que o www.cs.princeton.edu está no endereço de cicada.cs.princeton.edu e o mesmo diria que está no endereço 192.12.69.60
+
+3- Imagem -> existe uma imagem nesta mensagem
+   Editada -> a mensagem foi editada
+   Deleta automática -> deletar mensagens recebidas alguem pré-programado(SPANS)
+
+4- O comando RCTP significa que a mensagem foi pode ser enviada, então se o servidor falar que não está "OK"(destinatario invalido ou nao existente) não há necessidade de enviar o conteudo (DATA)
+
+5- o POP tem o email salvo no PC do usuário enquanto o IMAP tem salvo em um servidor
+   o POP tem os emails lidos off-line enquanto o IMAP é online
+   o POP gasta bem menos recursos que o IMAP
+   o POP o usuário tem pouco controle sobre os downloads enquanto o IMAP tem muito
+
+6-
+
+7- Fazer apenas uma conexão com o servidor, ganhando tempo e diminuindo a quantidade de recursos utilizados para acessar o servidor várias vezes.
+
+8-o browser tem um parser que vai ver se é um IP ou uma url,Se for IP, não precisa de todo o role do dns
+
+9- NÃO CONSEGUI ACESSAR O SITE :(
+
+10- Pelos cookies, pois o usuário deixa um registro de que ele entrou no site, então o site pode verificar quantos registros foram feitos.
+    Arquivo de log.
+
+11- Vantagem Cliente: Atualização de conteúdo feito pelo cliente, pode customizar o layout, gestão de conteúdo
+    Desvantagem Cliente: Custo de desenvolvimento é alto, precisa de Back-up
+    No cliente, pode ser que ele não tenha ou desabilite o JavaScript, aí a página vira estática (desvantagem)
+    
+
+Em contrapartida, no lado do cliente você evita ficar trocando mensagem com o servidor, então é menos pacote enviado/recebido
+
+12- O proxy web é usado para compartilhar a cache entre todos os seus usuários, ou seja todas as solicitações que forem pedidas ao servidor serão atendidas pelo proxy assim que possível.
+	Reduzindo quantidade de uso de banda.
+	Recuperação de uma página em cache é mais rápido
+	Possibilidade de filtrar conteúdo
+
+13 - TCP -> não pois o tcp serve para envio de dados(todos os pacotes garantidos) melhor para mensagens(email)
+     UDP -> não, pois não pode ser perder pacotes em uma transmissão de audio, o UDP é melhor para transmissão em tempo real (skype)
+     RTP -> Sim, pois é um modelo de tempo real para envio, principalmente de áudio e video
+
+14- O multcast envia os quadros para um grupo de clientes designados enquanto o broadcast envia para todos os endereços.
+    Para transmissão de vídeo por demanda o Multicast é melhor, pois ele que designa a quem deve ser enviado.
+
+    Os aparelhos atuais não suportão o multicast
+    
+15- Nenhum, ele se aproxima mais do IMAP, pois ele utiliza servidores e não a maquina do usuário.

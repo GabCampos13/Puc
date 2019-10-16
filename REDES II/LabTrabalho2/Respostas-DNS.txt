@@ -1,0 +1,48 @@
+1 - Site: www.square-enix.co.jp IP:201.17.166.139
+
+2 - site da Universidade de Cambridge: 
+cam.ac.uk       nameserver = sns-pb.isc.org
+cam.ac.uk       nameserver = ns2.ic.ac.uk
+cam.ac.uk       nameserver = authdns0.csx.cam.ac.uk
+cam.ac.uk       nameserver = dns0.cl.cam.ac.uk
+cam.ac.uk       nameserver = dns0.eng.cam.ac.uk
+
+5 - Porta Fonte: 52167 Porta Destino: 53
+
+6 - IP->192.168.1.1. Sim são os mesmos endereços
+
+7 - Type A. não foi encontrado campo Answer
+
+8 - Existem 3 campos Answer. Os servidores DNS
+
+9- Não, nenhum deles corresponde.
+
+10-?(nao)
+
+11- Porta origem: 61412 Porta Destino: 53
+
+12- 192.168.1.1. Sim esse é um de meus endereços IP's
+
+13- Type A, sem campo Answer
+
+14- Existem 3 campos Answer. São os servidores DNS
+
+16- Endereço: 192.168.1.1. Sim é um de meus endereços
+
+17- Type NS porém não existe campo Answer
+
+18- Servidores listados:
+
+ns01.telmex.net.br
+dns02.redeinfovias.net.br
+ns2.telbrax.net.br
+ns.pucminas.br
+ns.embratel.net.br
+
+19- Não, os IPs dos servidores DNS não foram fornecidos.
+
+20- 192.168.1.1, ainda é um de meus endereços locais.
+
+21- Type A. Não possui campo Answer
+
+22- Apenas um campo anwser, com o endereço de ip que foi solicitado.

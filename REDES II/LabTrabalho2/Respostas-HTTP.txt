@@ -1,0 +1,26 @@
+1- O navegar utiliza o HTTP 1.1, o mesmo ao qual o servidor roda.
+2- O servidor aceita a linguagem en-US (english - USA)
+3- O meu endereço IP é 192.168.1.155 e o do servidor é 128.119.245.12
+4- código de status: 200 OK
+5- Ultima vez que foi modificado foi no dia 13 de março de 2019 as 05:59:01 GMT
+6- Content Lenght foi de 128 bytes
+7- Não
+
+8- Não
+9- Sim, pois toda resposta do arquivo HTML está dentro do pacote
+10- Sim,  segue a mensagem: "Wed, 13 Mar 2019 05:59:01 GMT \r\n"
+11- 304 Not modified. O servidor não retornou explicitamente o conteudo pois não houve alteração no mesmo.
+
+12- Apenas 1 mensagem HTTP GET foi enviada.
+13- Foram necessários 4 segmentos TCP (#15,#16,#17,#18)
+14- Codigo de status: 200 OK
+15- Não
+
+16- 3 HTTP GET foram enviados.
+	IP:http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html
+	IP:http://gaia.cs.umass.edu/pearson.png
+	IP:http://manic.cs.umass.edu/~kurose/cover_5th_ed.jpg
+17- Foi baixada em sequencial, pois esperaram a resposta OK do servidor para iniciar a próxima.
+
+18- 401 Unauthorized
+19- Apareceu o campo Authorization, pois o servidor aceitou o login e senha.
