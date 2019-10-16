@@ -1,0 +1,6 @@
+Manual De instalação do PSE no NetBeans:
+https://www.youtube.com/watch?v=ndzYnq2fm5s&feature=youtu.be
+
+Video da execução do PSE:
+https://www.youtube.com/watch?v=RfOVZ_rcsBQ&t=9s
+

@@ -1,0 +1,12 @@
+Bem, como manual do usuario,irei demonstrar como colocar o arquivo no netBeans com um video curto de explicação no link:
+https://www.youtube.com/watch?v=ndzYnq2fm5s&feature=youtu.be
+
+Link do Drive citado no video:
+https://drive.google.com/open?id=1llnfH_1pFVwUZJ6DD0y-QR-JAxoYHmx2
+
+Para executar o .jar:
+
+Ele estará no google drive separado, porém, pelo fato de ele precisar das importações externas do netBeans (apenas na mostra do histograma),ele não terá essa opção.
+Assim que for feito o "Clean and build", informado no video acima, eles estará na pasta dist, dentro do NetBeansProject/PI (criada e mostrada no video acima).
+
+Qualquer dúvida, favor mandar email para gabrigol.07@gmail.com

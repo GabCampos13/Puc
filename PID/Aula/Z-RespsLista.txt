@@ -1,0 +1,89 @@
+1)b)    A CIRC - (4raiz de 2 + 2)²/4pi*6
+	  CC- 770334
+	 PHI- 30-7301
+	NORM- 301301
+	   #- 013013
+	      014450
+
+	B CIRC- (6raiz de 2+ 6)²/4pi*11
+	 CC- 607702315443
+	 PHI- 3-670-721-24-10-1
+	NORM- 327012164707
+	   #- 012164707327
+
+	  CIRC- (raiz de 2 + 2)²/4pi*3
+	  CC - 603
+	  PHI- 3-63
+         NORM- 323
+	    #- 233
+
+ 	C CIRC- (5 raiz de 2 + 10)²/11
+	  CC- 654007602431043
+	 PHI- 3-1-1-407-1-622-1-2-14-1
+	NORM- 377407722276747
+	   #- 077222767473774
+
+2) A representacao por contorno serve quando queremos as caracteristicas
+de forma da imagem.
+
+Vantagens da representacao por contorno: informacoes da borda
+Desvantagens: nao verifica o interior da imagem '
+
+Representacao por regiao por pixels : info dos objetos por cor ou textura
+Desvantagens: nao pega info das bordas
+
+3)
+1 <= V(P1) <= 6
+S(P1) = 1
+P2 x P4 x P6 = 0
+P4 x P6 x P8 = 0
+
+4)a)    0013767221773027674
+	0014310245436607540
+
+  b)	11111111 
+	12345670
+
+  c)	000200300760732002
+	000222555422146660
+
+5)A - ?
+  B - d
+  C - c - b
+  D - a
+  E - e
+  F - ?
+   
+6)   0   1   2
+   -------------
+0  | 0 |5/16| 0 |
+   -------------
+1  | 0 | 0 |5/16|
+   -------------
+2  |6/16| 0 | 0 |
+   -------------
+
+Energia = 2(5/16)² + 6/16² = 0.1953 + 0.1406 = 0.3359
+Entropia = (-2(0.3125*-1.67) + (0.375*-1.41)) = (-0.52 -1.04) = 1,56
+
+     0   1   2
+   -------------
+0  | 0 |5/15| 0 |
+   -------------
+1  | 0 | 0  |5/15|
+   -------------
+2  |5/15| 0 | 0 |
+   -------------
+
+Energia = 3(1/3)² = 0,3333 
+Entropia = -3(0.3333*-1.585) = 1.584 
+
+7)a)Passa baixa??
+
+b) A abordagem por segmentacao por contorno e melhor, visto ao fato do contorno das plantas influenciarem no seu tipo
+
+c) Circularidade. existe diferenca na circularidade das folhas 
+
+d) O formato da folha seria uma boa informacao adicional para veririficacao do seu tipo
+
+8)??
