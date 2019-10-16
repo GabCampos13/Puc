@@ -1,0 +1,9 @@
+Warning[205] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 2 : Found directive in column 1. (LIST)
+Warning[205] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 3 : Found directive in column 1. (RADIX)
+Message[302] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 64 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 68 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 77 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 81 : Using default destination of 1 (file).
+Message[305] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 86 : Using default destination of 1 (file).
+Warning[205] C:\USERS\GABRIEL\PUC\AC2\PROVA\2_PIC_AULA01_MPLAB\PIC_AULA01\PROVA.ASM 94 : Found directive in column 1. (END)
