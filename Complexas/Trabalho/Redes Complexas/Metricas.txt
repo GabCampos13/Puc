@@ -1,0 +1,17 @@
+Metricas Grau :
+Média 10.304450757575758
+Mediana 6.0
+Desvio Padrão 10.823122478783885
+Máx: 74 Min 1
+-----------------------------------------------
+Metricas Clusterizacao :
+Média 0.6708659932895265
+Mediana 0.7555555555555555
+Desvio Padrão 0.32249911393809927
+Máx: 1.0 Min 0.0
+-----------------------------------------------
+Metricas Distancia :
+Média 1.6418892843096942
+Mediana 1.1
+Desvio Padrão 1.9696354384924977
+Máx: 38.66231653558175 Min 1.0
